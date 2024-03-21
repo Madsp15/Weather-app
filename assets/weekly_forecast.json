@@ -1,0 +1,53 @@
+{
+  "latitude": 55.522232,
+  "longitude": 8.408966,
+  "generationtime_ms": 0.05996227264404297,
+  "utc_offset_seconds": 3600,
+  "timezone": "Europe/Berlin",
+  "timezone_abbreviation": "CET",
+  "elevation": 11.0,
+  "daily_units": {
+    "time": "iso8601",
+    "weather_code": "wmo code",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C"
+  },
+  "daily": {
+    "time": [
+      "2024-03-07",
+      "2024-03-08",
+      "2024-03-09",
+      "2024-03-10",
+      "2024-03-11",
+      "2024-03-12",
+      "2024-03-13"
+    ],
+    "weather_code": [
+      3,
+      3,
+      3,
+      3,
+      61,
+      61,
+      61
+    ],
+    "temperature_2m_max": [
+      5.5,
+      7.2,
+      5.6,
+      4.6,
+      4.4,
+      5.4,
+      6.3
+    ],
+    "temperature_2m_min": [
+      0.7,
+      0.1,
+      -0.0,
+      0.9,
+      2.4,
+      2.3,
+      4.4
+    ]
+  }
+}
